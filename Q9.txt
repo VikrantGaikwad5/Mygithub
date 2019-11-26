@@ -1,0 +1,5 @@
+Insert into students [id,name,gender,age,date of birth,religion] Values[1.Amit,male,24,1990-07-12,none]
+
+Insert into students [id,name,gender,age,date of birth,religion] Values[2,Ganesh,male,34,1980-03-12,Christian]
+
+Alter table student Add default 'None' for religion.
